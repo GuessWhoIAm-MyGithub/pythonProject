@@ -1,4 +1,5 @@
 """加载依赖库"""
+#first MnistProgram
 import time
 
 import  torch
